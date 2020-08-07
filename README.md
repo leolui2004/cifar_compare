@@ -86,7 +86,9 @@ The leaderboard shows different models achiving result mostly >95%. Those are no
 Reference:
 Leaderboard for CIFAR-10
 https://paperswithcode.com/sota/image-classification-on-cifar-10
+
 Sample code for building Resnet-56
 https://qiita.com/shoji9x9/items/d09092b88ea42bd36a7b
+
 Something about binary crossentropy and its accuracy
 https://stackoverflow.com/questions/41327601/why-is-binary-crossentropy-more-accurate-than-categorical-crossentropy-for-multi
